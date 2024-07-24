@@ -3,3 +3,4 @@
   -Using complex parameters to drill down in worksheet and customisation using filters and slicers.
   -working on new connections , relationships between tables ,creating new calculated columns to help with the analysis and using different categories of chart- 
    bar.donut,clustered bar chart .
+   ![Dashboard](https://github.com/csanjiti1/Ecommerce-Sales-Dashboard/blob/main/Ecommerces%20Sales%20Dashboard.png)
